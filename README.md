@@ -2,7 +2,7 @@
 
 This repository contains the official PyTorch implementation of our paper:
 
-[IROS 2025] JAM: Keypoint-Guided Joint Prediction after Classification-Aware Marginal Proposal for Multi-Agent Interaction [[arxiv](TODO)]
+[IROS 2025] JAM: Keypoint-Guided Joint Prediction after Classification-Aware Marginal Proposal for Multi-Agent Interaction [[TODO](TODO)]
 
 ### News
 
