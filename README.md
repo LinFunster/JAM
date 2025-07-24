@@ -2,15 +2,15 @@
 
 This repository contains the official PyTorch implementation of our paper:
 
-[IROS 2025] JAM: Keypoint-Guided Joint Prediction after Classification-Aware Marginal Proposal for Multi-Agent Interaction [[TODO](TODO)]
+[IROS 2025] JAM: Keypoint-Guided Joint Prediction after Classification-Aware Marginal Proposal for Multi-Agent Interaction [[arxiv](https://arxiv.org/abs/2507.17152)]
 
 ### News
 
+- **[24/07/2025]**: We release the JAM paper on [arxiv](https://arxiv.org/abs/2507.17152)!
 - **[01/07/2025]**: JAM is accepted by IROS 2025🎉!
 
 ### TODOList
-- Release Arxiv Paper
-- Release Code
+- Code release is coming soon.
 
 ### Contact
 
@@ -25,4 +25,4 @@ TODO
 ```
 
 ### Acknowledgement
-TODO
+>We gratefully acknowledge the following projects for their inspiration: [GameFormer](https://github.com/MCZhi/GameFormer), [PP-TIL](https://github.com/LinFunster/PP-TIL), [BeTop](https://github.com/OpenDriveLab/BeTop/tree/main), [MTR](https://github.com/sshaoshuai/MTR), [QCNet](https://github.com/ZikangZhou/QCNet). Many thanks for their excellent contributions to the community.
