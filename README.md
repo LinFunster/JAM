@@ -15,7 +15,7 @@ Download the Waymo Open Motion Dataset v1.2.0 from the [official website](https:
 We use `Python 3.10` to ensure compatibility with the `waymo-open-dataset-tf-2-12-0` package.
 
 ```shell
-# data preprocess (train/valid)
+# data preprocess
 python data_process.py \
 --load_path /JAM/waymo_dataset_1_2/training \ 
 --save_path /JAM/waymo_dataset_1_2/processed_train \
