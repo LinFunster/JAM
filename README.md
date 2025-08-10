@@ -33,10 +33,17 @@ python data_process.py \
 bash train_JAM.sh
 
 # viusalization
-python visualization.py --test_set "/Jam/waymo_dataset_1_2/validation_interactive" --jam_model_path "/Jam/jam_log/jam/epochs_29.pth"
+python visualization.py \
+--name "jam_visual_res" \
+--test_set "/Jam/waymo_dataset_1_2/validation_interactive" \
+--jam_model_path "/Jam/jam_log/jam/epochs_29.pth"
 
 # submission
-python submission_interactive.py --name "jam" --sub_output_dir "/JAM/submission_pkg" --test_set "/JAM/waymo_dataset_1_2/submission_validset" --jam_model_path "/JAM/jam_log/jam/epochs_29.pth"
+python submission_interactive.py \
+--name "jam" \
+--sub_output_dir "/JAM/submission_pkg" \
+--test_set "/JAM/waymo_dataset_1_2/submission_validset" \
+--jam_model_path "/JAM/jam_log/jam/epochs_29.pth"
 ```
 
 ### Contact
